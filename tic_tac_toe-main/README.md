@@ -13,7 +13,7 @@ This repository contains a simple implementation of the classic Tic Tac Toe game
 ## Installation
 
 1. Clone the repository:
-    git clone https://github.com/sahithi206/tic_tac_toe.git
+    git clone https://github.com/lunatics11/Tic-Tac-Toe.git
 2. Navigate to the project directory:
     cd tic_tac_toe
 
